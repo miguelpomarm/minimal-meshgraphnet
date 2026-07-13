@@ -7,7 +7,6 @@ Bachelor's Thesis · University of Zaragoza (EINA) · Defended July 2026
 - **Author**: Miguel Pomar Martínez
 - **Supervisors**: Salvador Izquierdo Estallo, Alfonso Ortega Giménez
 - **Degree**: Bachelor's in Telecommunications Engineering (specialization in Telecommunication Systems)
-- **Full thesis (Spanish)**: [ZAGUÁN — TAZ-TFG-2026-3557](https://zaguan.unizar.es/record/TAZ-TFG-2026-3557)
 
 ---
 
