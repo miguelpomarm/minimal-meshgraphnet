@@ -1,0 +1,55 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# Virtual environments
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model artifacts (too heavy for git)
+*.ckpt
+*.ckpt.*
+*.h5
+*.pth
+*.pkl
+*.npy
+checkpoints/
+rollouts/
+training/
+
+# Logs
+*.log
+logs/
+
+# Data (datasets live on S3, not in the repo)
+*.tfrecord
+data/
+datasets/
+
+# AWS credentials (never commit)
+.aws/
+credentials
